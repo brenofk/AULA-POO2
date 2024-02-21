@@ -1,12 +1,12 @@
 
 # Apresentação:
-# Aluno
+# Aluno:
 
 * Breno Fernando Soares
 
-# Curso
+# Curso:
 
 * TADS 2 ano 2024
 
-# Disciplina
+# Disciplina:
 * Programação Orientada a Objetos.
